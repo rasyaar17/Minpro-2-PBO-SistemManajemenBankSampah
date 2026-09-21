@@ -1,0 +1,9 @@
+Controller\SampahCRUD.class
+model\PetugasSampah.class
+model\SampahAnorganik.class
+com\mycompany\minpro2pbobanksampah\Minpro2PBOBankSampah.class
+view\Menu.class
+model\PenyetorSampah.class
+model\Sampah.class
+model\SampahOrganik.class
+Controller\InputCek.class
