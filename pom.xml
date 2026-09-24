@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>26</maven.compiler.release>
-        <exec.mainClass>com.mycompany.minpro2pbobanksampah.Minpro2PBOBankSampah</exec.mainClass>
+        <exec.mainClass>com.mycompany.minpro2pbobanksampah.Main</exec.mainClass>
     </properties>
 </project>

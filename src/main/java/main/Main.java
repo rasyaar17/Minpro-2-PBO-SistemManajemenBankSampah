@@ -1,8 +1,8 @@
-package com.mycompany.minpro2pbobanksampah;
+package main;
 
 import view.Menu;
 
-public class Minpro2PBOBankSampah {
+public class Main {
 
     public static void main(String[] args) {
 

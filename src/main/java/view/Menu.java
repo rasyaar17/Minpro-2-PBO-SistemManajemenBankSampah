@@ -1,7 +1,7 @@
 package view;
 
-import Controller.InputCek;
-import Controller.SampahCRUD;
+import controller.InputCek;
+import controller.SampahCRUD;
 import java.util.Scanner;
 
 public class Menu {
