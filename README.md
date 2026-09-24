@@ -1,3 +1,5 @@
+  <h1> SISTEM MANAJEMEN BANK SAMPAH </h1>
+
 <table>
   <tr>
     <td width="150"><b>Nama</b></td>
